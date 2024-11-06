@@ -24,12 +24,13 @@ Here are some ideas to get you started:
 [Profile](#) | [Education](#education) | [My Skill](#my-skill) | [Working Experiences](#working-experiences) | [Language](#languages) | [Programming Language](#programming-language)
 
 ## Socheathek Mao | ​​ម៉ៅ សុជាតិឯក 
-[![CV Portfolio](./icons/briefcase.png)](https://rimsila.github.io/rimsila)
-[![LinkedIn](./icons/linkedin.png)](https://www.linkedin.com/in/sila-rim-a59135166/)
-[![GitHub](./icons/github.png)](https://github.com/rimsila)
-[![Email](./icons/email.png)](mailto:rimsila.itc@gmail.com?subject=From%20GitHub&cc=rimsila.itc@gmail&copy;body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[![Phone](./icons/phone.png)](tel:85531946xxxx)
-[![Address](./icons/address.png)](https://goo.gl/maps/dQP7hmfbc8xXgzSQA)
+
+[![CV Portfolio](https://i.imgur.com/cv_portfolio.png)](https://rimsila.github.io/rimsila)
+[![LinkedIn](https://i.imgur.com/linkedin.png)](https://www.linkedin.com/in/sila-rim-a59135166/)
+[![GitHub](https://i.imgur.com/github.png)](https://github.com/rimsila)
+[![Email](https://i.imgur.com/email.png)](mailto:rimsila.itc@gmail.com?subject=From%20GitHub&cc=rimsila.itc@gmail&copy;body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[![Phone](https://i.imgur.com/phone.png)](tel:85531946xxxx)
+[![Address](https://i.imgur.com/address.png)](https://goo.gl/maps/dQP7hmfbc8xXgzSQA)
 
 <h4>Apply for:</h4>
 
