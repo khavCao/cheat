@@ -26,24 +26,12 @@ Here are some ideas to get you started:
 ## Socheathek Mao | ​​ម៉ៅ សុជាតិឯក 
 
 
-<a href="https://rimsila.github.io/rimsila" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/CV_Portfolio-black?style=plastic&logo=file-alt&logoColor=white" alt="CV Portfolio" width="150" height="50">
-</a>
-<a href="https://www.linkedin.com/in/sila-rim-a59135166/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" width="150" height="50">
-</a>
-<a href="https://github.com/rimsila" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Github-black?style=plastic&logo=github&logoColor=white" alt="GitHub" width="150" height="50">
-</a>
-<a href="mailto:rimsila.itc@gmail.com?subject=From%20GitHub&cc=rimsila.itc@gmail&body=Hi,%20there.%20Found%20you%20from%20GitHub." style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-black?style=plastic&logo=gmail&logoColor=white" alt="Email" width="150" height="50">
-</a>
-<a href="tel:+855319465xxx" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Phone-+855_319465xxx-black?style=plastic&logo=phone&logoColor=white" alt="Phone" width="150" height="50">
-</a>
-<a href="https://goo.gl/maps/dQP7hmfbc8xXgzSQA" style="text-decoration: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/9356/9356230.png" alt="Location" width="150" height="50">
-</a>
+[![CV](https://img.shields.io/badge/CV_Portfolio-black?color=14171A&labelColor=blue&logoColor=ffffff)](https://rimsila.github.io/rimsila)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/sila-rim-a59135166/)
+[![github](https://img.shields.io/badge/Github-black?color=14171A&labelColor=blue&logoColor=ffffff)](https://github.com/rimsila)
+[![Gmail](https://img.shields.io/badge/%20-rimsila.itc@gmail.com-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:rimsila.itc@gmail.com?subject=From%20GitHub&cc=rimsila.itc@gmail&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[![Phone](https://img.shields.io/badge/Phone-+855_319465xxx-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel:85531946xxxx)
+[![Gmail](https://img.shields.io/badge/Address-Sangkat_Pshar_Derm_Kor_,_Phnom_Penh-black?color=14171A&labelColor=ffcc80&logoColor=ffffff)](https://goo.gl/maps/dQP7hmfbc8xXgzSQA)
 
 <h4>Apply for:</h4>
 
