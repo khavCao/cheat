@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a target="_blank" href="https://github.com/rimsila"><img width="110" align="right" src="C:\Users\ASUS\Downloads\cheat\assets\cheath.png"></a>
+<a target="_blank" href="https://github.com/rimsila"><img width="110" align="right" src="![alt text](assets/cheath.png)"></a>
 
 <!-- <a target="_blank" href="https://tiny.cc/rupeshjs"><img width="250" align="right" src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/dev.gif"></a> -->
 
