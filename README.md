@@ -42,7 +42,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Phone-+855_319465xxx-black?style=plastic&logo=phone&logoColor=white" alt="Phone">
 </a>
 <a href="https://goo.gl/maps/dQP7hmfbc8xXgzSQA" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Address-Sangkat_Pshar_Derm_Kor_,_Phnom_Penh-black?style=plastic&logo=map-marker&logoColor=white" alt="Location">
+    <img src="https://cdn-icons-png.flaticon.com/512/9356/9356230.png" alt="Location">
 </a>
 
 <h4>Apply for:</h4>
