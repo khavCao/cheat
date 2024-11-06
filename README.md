@@ -42,17 +42,9 @@ I enjoy creating clean and structured applications and take great care to ensure
 
 ### Education
 
-- <b><a href="https://www.passerellesnumeriques.org/fr/nos-actions/cambodge/" target="_blank" > Passerelles Numériques Cambodia(PNC):
+- <b><a href="https://www.passerellesnumeriques.org/fr/nos-actions/cambodge/" target="_blank" > Passerelles Numériques Cambodia (PNC):
   </a> </b> - Phnom Penh<br>
   <b>Major</b> - Web Developer (2023-2024)
-
-- <b><a href="https://www.kshrd.com.kh/" target="_blank" > Korean Software HRD Center:
-  </a> </b> - Phnom Penh<br>
-  <b>Major</b> - Web Application (8 hours/day , 5month)
-
-  - <b>JAVA</b>: J2SE (Basic Java and OOP concepts), J2EE (Servlet and MVC pattern)<br>
-    <b>WEB</b>: HTML5, CSS3, JavaScript, Bootstrap 4, CSS FlexBox, jQuery, AJAX, JSON<br>
-    <b> SPRING</b>: Spring Boot,Spring Security, ThymeLeaf Template Engine
 
 ### My Skill
 
@@ -73,7 +65,7 @@ Backend:['Nodejs','CMS'],
 
 ### Working Experiences
 
-[back to top^](#curriculum-vitae)
+[Back to top ⇪](#curriculum-vitae)
 
 - <b> <a target="_blank" href="https://www.infinity-tech.cc" target="_blank" > Infinity Information & Apps and Dev:
   </a></b> <br>
@@ -215,4 +207,4 @@ Backend:['Nodejs','CMS'],
 
 </p>
 
-[back to top^](#curriculum-vitae)
+[back to top ⇪](#curriculum-vitae)
