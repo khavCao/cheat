@@ -1,6 +1,3 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Khmer&family=Noto+Sans+Khmer:wght@100..900&display=swap');
-</style>
 <!--
 ### Hi there 👋
 
@@ -26,7 +23,7 @@ Here are some ideas to get you started:
 
 [Profile](#) | [Education](#education) | [My Skill](#my-skill) | [Working Experiences](#working-experiences) | [Language](#languages) | [Programming Language](#programming-language)
 
-## Socheathek Mao /​​<p style="font-family:Khmer, sans-serif;">ម៉ៅ សុជាតិឯក</p>
+## Socheathek Mao /​​ម៉ៅ សុជាតិឯក 
 
 
 [![CV](https://img.shields.io/badge/CV_Portfolio-black?color=14171A&labelColor=blue&logoColor=ffffff)](https://rimsila.github.io/rimsila)
