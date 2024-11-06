@@ -32,21 +32,19 @@ Here are some ideas to get you started:
 [![Phone](https://img.shields.io/badge/Phone-+855_319465xxx-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel:85531946xxxx)
 [![Gmail](https://img.shields.io/badge/Address-Sangkat_Pshar_Derm_Kor_,_Phnom_Penh-black?color=14171A&labelColor=ffcc80&logoColor=ffffff)](https://goo.gl/maps/dQP7hmfbc8xXgzSQA)
 
-<h4>Apply for: 
-<a href="#">​asdad</a>
-</h4>
+<h4>Apply for:</h4>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi there, I'm Sila, and I’m a Senior Front-End Developer with over 7 years of experience in developing web and mobile hybrid applications. I have completed more than 15 projects using modern frameworks like ReactJS, React Native, VueJS, and TypeScript. I have contributed significantly to various projects such as telecom apps, booking, ectomere, real estate, learning platforms, crypto market and more.
 
-I developing projects following best practices, solving problem,  and and keep myself updated with the latest technologies. I work in an agile manner and well communicate . In my free time, I contribute to open-source projects on GitHub and Npm. There, I have built reusable libraries such as react generator tools and my own component library to speed up development processes.
+I developing projects following best practices, solving problem, and and keep myself updated with the latest technologies. I work in an agile manner and well communicate . In my free time, I contribute to open-source projects on GitHub and Npm. There, I have built reusable libraries such as react generator tools and my own component library to speed up development processes.
 
 I enjoy creating clean and structured applications and take great care to ensure the code is free of errors by using tools such as ESlint, Stylelint, and Webpack. I also write unit tests to ensure each part of the project is predictable and maintainable. To optimize performance and user experience, I use code-splitting, server-side rendering (SSR) and fully optimize the web application for search engines.
 
 ### Education
 
-- <b><a href="https://uc.edu.kh/" target="_blank" > The University Of Cambodia:
+- <b><a href="https://www.passerellesnumeriques.org/fr/nos-actions/cambodge/" target="_blank" > Passerelles Numériques Cambodia(PNC):
   </a> </b> - Phnom Penh<br>
-  <b>Major</b> - BA in Information Technology (2015-2019)
+  <b>Major</b> - Web Developer (2023-2024)
 
 - <b><a href="https://www.kshrd.com.kh/" target="_blank" > Korean Software HRD Center:
   </a> </b> - Phnom Penh<br>
@@ -80,7 +78,7 @@ Backend:['Nodejs','CMS'],
 - <b> <a target="_blank" href="https://www.infinity-tech.cc" target="_blank" > Infinity Information & Apps and Dev:
   </a></b> <br>
   <b>Senior Front-End (React/Vue): </b> Aug-2022 - Present
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working there almost a year to build many web app, portal and electron app using latest front-end tech ReactJs, NextJs, Vue3, Nuxt3, typescript and electron.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working there almost a year to build many web app, portal and electron app using latest front-end tech ReactJs, NextJs, Vue3, Nuxt3, typescript and electron.
 
 - <b> <a target="_blank" href="https://www.cellcard.com.kh/en/" target="_blank" > Cellcard:
   </a></b> <br>
