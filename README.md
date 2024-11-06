@@ -24,13 +24,12 @@ Here are some ideas to get you started:
 [Profile](#) | [Education](#education) | [My Skill](#my-skill) | [Working Experiences](#working-experiences) | [Language](#languages) | [Programming Language](#programming-language)
 
 ## Socheathek Mao | ​​ម៉ៅ សុជាតិឯក 
-
-[![Briefcase](https://img.shields.io/badge/CV_Portfolio-blue?style=for-the-badge&logo=file-alt&logoColor=white)](https://rimsila.github.io/rimsila)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sila-rim-a59135166/)
-[![GitHub](https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rimsila)
-[![Envelope](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rimsila.itc@gmail.com?subject=From%20GitHub&cc=rimsila.itc@gmail&copy;body=Hi,%20there.%20Found%20you%from%GitHub.)
-[![Phone](https://img.shields.io/badge/Phone-blue?style=for-the-badge&logo=phone&logoColor=white)](tel:85531946xxxx)
-[![Address](https://img.shields.io/badge/Address-blue?style=for-the-badge&logo=map-marker&logoColor=white)](https://goo.gl/maps/dQP7hmfbc8xXgzSQA)
+[![CV Portfolio](./icons/briefcase.png)](https://rimsila.github.io/rimsila)
+[![LinkedIn](./icons/linkedin.png)](https://www.linkedin.com/in/sila-rim-a59135166/)
+[![GitHub](./icons/github.png)](https://github.com/rimsila)
+[![Email](./icons/email.png)](mailto:rimsila.itc@gmail.com?subject=From%20GitHub&cc=rimsila.itc@gmail&copy;body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[![Phone](./icons/phone.png)](tel:85531946xxxx)
+[![Address](./icons/address.png)](https://goo.gl/maps/dQP7hmfbc8xXgzSQA)
 
 <h4>Apply for:</h4>
 
