@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 [Profile](#) | [Education](#education) | [My Skill](#my-skill) | [Working Experiences](#working-experiences) | [Language](#languages) | [Programming Language](#programming-language)
 
-## Socheathek Mao /​​ម៉ៅ សុជាតិឯក 
+## Socheathek Mao | ​​ម៉ៅ សុជាតិឯក 
 
 
 [![CV](https://img.shields.io/badge/CV_Portfolio-black?color=14171A&labelColor=blue&logoColor=ffffff)](https://rimsila.github.io/rimsila)
