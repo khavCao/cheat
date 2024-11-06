@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 [![CV](https://img.shields.io/badge/CV_Portfolio-black?color=14171A&labelColor=blue&logoColor=ffffff)](https://rimsila.github.io/rimsila)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/sila-rim-a59135166/)
-[![github](https://img.shields.io/badge/Github-black?color=14171A&labelColor=blue&logoColor=ffffff)](https://github.com/rimsila)
+[![GitHub](https://img.shields.io/badge/Github-black?color=14171A&labelColor=blue&logoColor=ffffff)](https://github.com/rimsila)
 [![Gmail](https://img.shields.io/badge/%20-rimsila.itc@gmail.com-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:rimsila.itc@gmail.com?subject=From%20GitHub&cc=rimsila.itc@gmail&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![Phone](https://img.shields.io/badge/Phone-+855_319465xxx-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel:85531946xxxx)
 [![Gmail](https://img.shields.io/badge/Address-Sangkat_Pshar_Derm_Kor_,_Phnom_Penh-black?color=14171A&labelColor=ffcc80&logoColor=ffffff)](https://goo.gl/maps/dQP7hmfbc8xXgzSQA)
