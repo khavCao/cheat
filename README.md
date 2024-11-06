@@ -26,12 +26,24 @@ Here are some ideas to get you started:
 ## Socheathek Mao | ​​ម៉ៅ សុជាតិឯក 
 
 
-[![Briefcase](https://img.shields.io/badge/CV_Portfolio-black?style=plastic&logo=file-alt&logoColor=white)](https://rimsila.github.io/rimsila)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sila-rim-a59135166/)
-[![GitHub](https://img.shields.io/badge/Github-black?style=plastic&logo=github&logoColor=white)](https://github.com/rimsila)
-[![Envelope](https://img.shields.io/badge/Email-black?style=plastic&logo=gmail&logoColor=white)](mailto:rimsila.itc@gmail.com?subject=From%20GitHub&cc=rimsila.itc@gmail&copy;body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[![Phone](https://img.shields.io/badge/Phone-+855_319465xxx-black?style=plastic&logo=phone&logoColor=white)](tel:85531946xxxx)
-[![Location](https://img.shields.io/badge/Address-Sangkat_Pshar_Derm_Kor_,_Phnom_Penh-black?style=plastic&logo=map-marker&logoColor=white)](https://goo.gl/maps/dQP7hmfbc8xXgzSQA)
+<a href="https://rimsila.github.io/rimsila" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/CV_Portfolio-black?style=plastic&logo=file-alt&logoColor=white" alt="CV Portfolio">
+</a>
+<a href="https://www.linkedin.com/in/sila-rim-a59135166/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://github.com/rimsila" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Github-black?style=plastic&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="mailto:rimsila.itc@gmail.com?subject=From%20GitHub&cc=rimsila.itc@gmail&body=Hi,%20there.%20Found%20you%20from%20GitHub." style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-black?style=plastic&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="tel:+855319465xxx" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Phone-+855_319465xxx-black?style=plastic&logo=phone&logoColor=white" alt="Phone">
+</a>
+<a href="https://goo.gl/maps/dQP7hmfbc8xXgzSQA" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Address-Sangkat_Pshar_Derm_Kor_,_Phnom_Penh-black?style=plastic&logo=map-marker&logoColor=white" alt="Location">
+</a>
 
 <h4>Apply for:</h4>
 
