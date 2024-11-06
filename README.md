@@ -25,13 +25,12 @@ Here are some ideas to get you started:
 
 ## Socheathek Mao | ​​ម៉ៅ សុជាតិឯក 
 
-
-[![Briefcase](https://img.shields.io/badge/CV_Portfolio-black?style=plastic&logo=file-alt&logoColor=white)](https://rimsila.github.io/rimsila)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sila-rim-a59135166/)
-[![GitHub](https://img.shields.io/badge/Github-black?style=plastic&logo=github&logoColor=white)](https://github.com/rimsila)
-[![Envelope](https://img.shields.io/badge/Email-black?style=plastic&logo=gmail&logoColor=white)](mailto:rimsila.itc@gmail.com?subject=From%20GitHub&cc=rimsila.itc@gmail&copy;body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[![Phone](https://img.shields.io/badge/Phone-+855_319465xxx-black?style=plastic&logo=phone&logoColor=white)](tel:85531946xxxx)
-[![📍](https://img.shields.io/badge/Address-Sangkat_Pshar_Derm_Kor_,_Phnom_Penh-black?style=plastic&logo=map-marker&logoColor=white)](https://goo.gl/maps/dQP7hmfbc8xXgzSQA)
+[![Briefcase](https://img.shields.io/badge/CV_Portfolio-blue?style=for-the-badge&logo=file-alt&logoColor=white)](https://rimsila.github.io/rimsila)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sila-rim-a59135166/)
+[![GitHub](https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rimsila)
+[![Envelope](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rimsila.itc@gmail.com?subject=From%20GitHub&cc=rimsila.itc@gmail&copy;body=Hi,%20there.%20Found%20you%from%GitHub.)
+[![Phone](https://img.shields.io/badge/Phone-blue?style=for-the-badge&logo=phone&logoColor=white)](tel:85531946xxxx)
+[![Address](https://img.shields.io/badge/Address-blue?style=for-the-badge&logo=map-marker&logoColor=white)](https://goo.gl/maps/dQP7hmfbc8xXgzSQA)
 
 <h4>Apply for:</h4>
 
