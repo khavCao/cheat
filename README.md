@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 [Profile](#) | [Education](#education) | [My Skill](#my-skill) | [Working Experiences](#working-experiences) | [Language](#languages) | [Programming Language](#programming-language)
 
-## Socheathek Mao /​​<p style="font-family:Khmer, sans-serif;">Hello</p>
+## Socheathek Mao /​​<p style="font-family:Khmer, sans-serif;">ម៉ៅ សុជាតិឯក</p>
 
 
 [![CV](https://img.shields.io/badge/CV_Portfolio-black?color=14171A&labelColor=blue&logoColor=ffffff)](https://rimsila.github.io/rimsila)
