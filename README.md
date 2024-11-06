@@ -27,22 +27,22 @@ Here are some ideas to get you started:
 
 
 <a href="https://rimsila.github.io/rimsila" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/CV_Portfolio-black?style=plastic&logo=file-alt&logoColor=white" alt="CV Portfolio">
+    <img src="https://img.shields.io/badge/CV_Portfolio-black?style=plastic&logo=file-alt&logoColor=white" alt="CV Portfolio" width="150" height="50">
 </a>
 <a href="https://www.linkedin.com/in/sila-rim-a59135166/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" width="150" height="50">
 </a>
 <a href="https://github.com/rimsila" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Github-black?style=plastic&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/Github-black?style=plastic&logo=github&logoColor=white" alt="GitHub" width="150" height="50">
 </a>
 <a href="mailto:rimsila.itc@gmail.com?subject=From%20GitHub&cc=rimsila.itc@gmail&body=Hi,%20there.%20Found%20you%20from%20GitHub." style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-black?style=plastic&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-black?style=plastic&logo=gmail&logoColor=white" alt="Email" width="150" height="50">
 </a>
 <a href="tel:+855319465xxx" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Phone-+855_319465xxx-black?style=plastic&logo=phone&logoColor=white" alt="Phone">
+    <img src="https://img.shields.io/badge/Phone-+855_319465xxx-black?style=plastic&logo=phone&logoColor=white" alt="Phone" width="150" height="50">
 </a>
 <a href="https://goo.gl/maps/dQP7hmfbc8xXgzSQA" style="text-decoration: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/9356/9356230.png" alt="Location">
+    <img src="https://cdn-icons-png.flaticon.com/512/9356/9356230.png" alt="Location" width="150" height="50">
 </a>
 
 <h4>Apply for:</h4>
